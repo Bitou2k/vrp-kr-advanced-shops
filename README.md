@@ -1,4 +1,7 @@
 > ESX-KR-ADVANCED-SHOPS and ROBBERY INCLUDED
+By KRILLE
+
+Converted to vRP
 
 **History**
 _Long time project, some of the coding is old, if you find any bugs please contact me on discord at: KRILLE#2428
